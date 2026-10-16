@@ -136,8 +136,8 @@ Na začetku skripte je razdelek **NASTAVITVE**, kjer lahko prilagodiš imena pol
 
 ## Avtor
 
-[Ime Priimek], izdelano v okviru praktičnega usposabljanja z delom (PUD) na [ustanova], 2026.
+Blažimir Grosek, izdelano v okviru praktičnega usposabljanja z delom (PUD) na FERI, 2026.
 
 ## Licenca
 
-Glej datoteko [LICENSE](LICENSE).
+---
